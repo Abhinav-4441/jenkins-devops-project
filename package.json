@@ -1,0 +1,10 @@
+{
+  "name": "jenkins-devops-project",
+  "version": "1.0.0",
+  "description": "Jenkins CI/CD practical project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node tests/test.js"
+  }
+}
